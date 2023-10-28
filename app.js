@@ -109,14 +109,62 @@
 
 // Question 3
 
-var str = "Hello"
-var userName = prompt()
+// var str = "Hello"
+// var userName = prompt("Enter your name", "Muhammad")
 
-console.log(str + " " + userName)
-
-
+// console.log(str + " " + userName)
 
 
+// Question 4
+
+// var number = prompt("Enter any number", "5")
+
+// console.log(number + " " + "*" + " " + 1 + " " + "=" + " " + number*1)
+// console.log(number + " " + "*" + " " + 2 + " " + "=" + " " + number*2)
+// console.log(number + " " + "*" + " " + 3 + " " + "=" + " " + number*3)
+// console.log(number + " " + "*" + " " + 4 + " " + "=" + " " + number*4)
+// console.log(number + " " + "*" + " " + 5 + " " + "=" + " " + number*5)
+// console.log(number + " " + "*" + " " + 6 + " " + "=" + " " + number*6)
+// console.log(number + " " + "*" + " " + 7 + " " + "=" + " " + number*7)
+// console.log(number + " " + "*" + " " + 8 + " " + "=" + " " + number*8)
+// console.log(number + " " + "*" + " " + 9 + " " + "=" + " " + number*9)
+// console.log(number + " " + "*" + " " + 10 + " " + "=" + " " + number*10)
+
+
+// Question 5
+
+
+// var subject1 = prompt("Enter your fitst subject", "English")
+// var subject2 = prompt("Enter your second subject", "Maths")
+// var subject3 = prompt("Enter your third subject", "Urdu")
+
+// var totalMarks = 100
+
+// var obtainedMarksInSubject1 = +prompt("Enter marks of first subject" , "54")
+// var obtainedMarksInSubject2 = +prompt("Enter marks of second subject","54")
+// var obtainedMarksInSubject3 = +prompt("Enter marks of third subject", "48")
+
+// console.log(obtainedMarksInSubject1+obtainedMarksInSubject2+obtainedMarksInSubject3)
+
+// console.log("Subject" +" "+ "Total marks" +" " + "Obtained marks" + " " + "Percentage")
+// console.log(subject1 + "     " + totalMarks + "            " + obtainedMarksInSubject1 + "        " + obtainedMarksInSubject1*totalMarks/100 + "%")
+// console.log(subject2 + "       " + totalMarks + "            " + obtainedMarksInSubject2 + "        " + obtainedMarksInSubject2*totalMarks/100 + "%")
+// console.log(subject3 + "        " + totalMarks + "            " + obtainedMarksInSubject3 + "        " + obtainedMarksInSubject3*totalMarks/100 + "%")
+// console.log("            " + totalMarks*3 + "            " + (obtainedMarksInSubject1+obtainedMarksInSubject2+obtainedMarksInSubject3) + "       " +  (obtainedMarksInSubject1+obtainedMarksInSubject2+obtainedMarksInSubject3)/300*100 + "%")
+
+// document.write("<table> <tr> <th>Subject</th> <th>TotalMarks</th> <th>ObtainedMarks</th>   <th>Percentege</th> </tr>       <tr> <td>English</td> <td>100</td> <td>54</td><td>54%</td> </tr>        <tr> <td>Maths</td> <td>100</td> <td>54</td><td>54%</td> </tr>        <tr> <td>Urdu</td> <td>100</td> <td>48</td> <td>48%</td> </tr>       <tr> <td></td> <td>300</td> <td>156</td><td>52%</td> </tr> </table>")
+
+
+
+
+
+// Chapter No. 9-11
+
+
+
+
+
+// Question 1
 
 
 
