@@ -211,3 +211,46 @@
 // if(remainingFuel < 0.25){
 // console.log("Please refill the fuel in your car")
 // }
+
+
+// Question 5
+
+// {a}
+
+// var a = 4;
+// if (++a === 5){
+    // alert("given condition for variable a is true");
+// }
+
+// {d}
+
+// var materialCost = 20000;
+// var laborCost = 2000;
+// var totalCost = materialCost + laborCost;
+
+// if (totalCost === laborCost + materialCost){
+//     alert("The cost equals");
+// }
+
+// {e}
+
+// if (true){
+//     alert("True");
+// }
+// if (false){
+//     alert("False");
+// }
+
+// {f}
+
+// if("car" < "cat"){
+    // alert("car is smaller than cat");
+// }
+
+
+// Question 6
+
+
+
+
+
