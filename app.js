@@ -166,6 +166,48 @@
 
 // Question 1
 
+// var cityName = prompt("Enter your city name")
+
+// if(cityName === "Karachi"){
+//    console.log("Welcome to city of lights")
+// }
+
+
+// Question 2
+
+// var gender = prompt("Enter your Gender")
+
+// if(gender === "male"){
+//     console.log("Good Morning Sir")
+// }
+
+// if(gender === "female"){
+//     console.log("Good Morning Ma’am.")
+// }
 
 
 
+// Question 3
+
+// var signalColor = prompt("Enter color of road traffic signal")
+
+// if(signalColor === "Red"){
+//     console.log("Must Stop")
+// }
+
+// if(signalColor === "Yellow"){
+//     console.log("Ready to move")
+// }
+
+// if(signalColor === "Green"){
+//     console.log("Move now")
+// }
+
+
+// Question 4
+
+// var remainingFuel = +prompt("Enter remaining fuel in car (in liters)")
+
+// if(remainingFuel < 0.25){
+// console.log("Please refill the fuel in your car")
+// }
