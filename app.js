@@ -89,8 +89,8 @@
 
 // Question 2
 
-var a = 2
-var b = 1
+// var a = 2
+// var b = 1
 
 
 // console.log(--a)
@@ -102,9 +102,18 @@ var b = 1
 // console.log(--a - --b + ++b)
 
 
-console.log(--a - --b + ++b + b--)
+// console.log(--a - --b + ++b + b--)
 
-document.write("a is: 2 <br> b is: 1 <br> result is: 3")
+// document.write("a is: 2 <br> b is: 1 <br> result is: 3")
+
+
+// Question 3
+
+var str = "Hello"
+var userName = prompt()
+
+console.log(str + " " + userName)
+
 
 
 
