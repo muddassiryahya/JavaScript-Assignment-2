@@ -250,7 +250,78 @@
 
 // Question 6
 
+// var obtainedMarksInSubject1 = +prompt("Enter marks of first subject" , "54")
+// var obtainedMarksInSubject2 = +prompt("Enter marks of second subject","54")
+// var obtainedMarksInSubject3 = +prompt("Enter marks of third subject", "48")
 
+// var totalObtainedMarks = +prompt("Enter total obtained marks", "156")
+// var totalMarks = +prompt("Enter total marks", "300")
+
+// var yourPercentage = alert("Percentage = " + totalObtainedMarks/totalMarks*100 + "%")
+
+// var percentage = prompt("Enter Your percentage")
+
+// if(percentage >= 80){
+//     console.log("Marks Sheet")
+//     console.log(" ")
+//     console.log("Total marks : 300 ")
+//     console.log("Obtained marks : " + totalObtainedMarks)
+//     console.log("Percentage : " + percentage + "%")
+//     console.log("Grade : A-one")
+//     console.log("Remarks : Excellent")
+// }
+// else if(percentage >= 70){
+//     console.log("Marks Sheet")
+//     console.log(" ")
+//     console.log("Total marks : 300 ")
+//     console.log("Obtained marks : " + totalObtainedMarks)
+//     console.log("Percentage : " + percentage + "%")
+//     console.log("Grade : A")
+//     console.log("Remarks : Good")
+// }
+
+// else if(percentage >= 60){
+//     console.log("Marks Sheet")
+//     console.log(" ")
+//     console.log("Total marks : 300 ")
+//     console.log("Obtained marks : " + totalObtainedMarks)
+//     console.log("Percentage : " + percentage + "%")
+//     console.log("Grade : B")
+//     console.log("Remarks : You need to improve")
+// }
+
+// else if(percentage >= 50){
+//     console.log("Marks Sheet")
+//     console.log(" ")
+//     console.log("Total marks : 300 ")
+//     console.log("Obtained marks : " + totalObtainedMarks)
+//     console.log("Percentage : " + percentage + "%")
+//     console.log("Grade : C")
+//     console.log("Remarks : You need to improve")
+// }
+
+// else if(percentage >=40){
+//     console.log("Marks Sheet")
+//     console.log(" ")
+//     console.log("Total marks : 300 ")
+//     console.log("Obtained marks : " + totalObtainedMarks)
+//     console.log("Percentage : " + percentage + "%")
+//     console.log("Grade : D")
+//     console.log("Remarks : You need to improve")
+// }
+
+// else{
+//     console.log("Marks Sheet")
+//     console.log(" ")
+//     console.log("Total marks : 300 ")
+//     console.log("Obtained marks : " + totalObtainedMarks)
+//     console.log("Percentage : " + percentage + "%")
+//     console.log("Grade : Fail")
+//     console.log("Sorry")
+// }
+     
+
+// Question 7
 
 
 
